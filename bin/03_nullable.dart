@@ -3,8 +3,8 @@
     Null값에 대한 안정성을 보장하기 위해 모든 변수는 nullable과 non-nullable로 구분한다.
 
     1. Nullable Type : null을 허용하는 타입
-                       변수 뒤에 ?(물음표)를 붙혀서 활용 함.
-    2. Non-nullable Type : null을 혀용하지 않음
+                       변수 뒤에 ?(물음표)를 붙여서 활용 함.
+    2. Non-nullable Type : null을 허용하지 않음
                            아무것도 붙히지 않는다.
  */
 
